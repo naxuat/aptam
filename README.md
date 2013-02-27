@@ -1,4 +1,0 @@
-aptam
-=====
-
-APT Acquire Method
